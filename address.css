@@ -1,0 +1,15 @@
+fieldset {
+    margin: auto;
+    margin-top: 70px;
+    padding: 20px;
+    border: 10px solid antiquewhite;
+    border-radius: 5px;
+    text-align: center;
+    background-color: cadetblue;
+    width: 200px;
+    height: 250px;
+}
+
+label {
+    display: block;
+}
