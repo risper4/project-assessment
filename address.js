@@ -1,4 +1,4 @@
-function Book(){
+function Car(){
     this.id = new Date;
     this.name = name;
 }
@@ -31,7 +31,7 @@ Garage.prototype.read = (id) => {
         li.database.id = j.id;
         li.innerHTML = `
         <strong><em>${j.name}</em></strong>
-        `
+        `;
         ul.appendChild.li;
     }
 }
